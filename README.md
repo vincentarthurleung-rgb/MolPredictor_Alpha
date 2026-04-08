@@ -1,9 +1,9 @@
-# MolPredictor_Alpha 🧬
+MolPredictor Alpha 
 
 A comprehensive machine learning pipeline for Tox21 ADMET toxicity prediction (NR-AR pathway), exploring the Pareto frontier of traditional ML models on highly imbalanced chemical datasets.
 一个用于 Tox21 ADMET 毒性预测（NR-AR 通路）的综合机器学习流水线，探索传统机器学习模型在极度不平衡化学数据集上的帕累托边界。
 
-## 📖 Project Overview (项目简介)
+Project Overview (项目简介)
 
 Predicting molecular toxicity is a critical step in AI-driven Drug Discovery (AIDD). This project serves as the baseline (Alpha phase) for the MolPredictor initiative. It evaluates the performance of traditional machine learning algorithms—including K-Nearest Neighbors (KNN), Logistic Regression (with L1/L2 regularization), Random Forest, and XGBoost—using 1024-bit Morgan Fingerprints. 
 
